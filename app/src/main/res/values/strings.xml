@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeToLearn</string>
+    <string name="logo_ttl">logo</string>
+    <string-array name="options">
+        <item>Gevyo Linear Layout Kick</item>
+        <item>Gevyo Relative Layout Punch</item>
+        <item>Gevyo Card View SideKick</item>
+    </string-array>
+</resources>
